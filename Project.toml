@@ -1,0 +1,13 @@
+name = "Xorg_libXScrnSaver_jll"
+uuid = "41e2f9bb-6422-5ff7-a427-aa949331d861"
+version = "1.2.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Xorg_libXext_jll = "1082639a-0dae-5f34-9b06-72781eeb8cb3"
+Xorg_util_macros_jll = "7c09cfe3-afe2-5798-bcc9-d6b7fecfdca5"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Xorg_scrnsaverproto_jll = "a13fabe6-5ee6-5635-9a74-e87bffe1fafd"
+
+[compat]
+julia = "1.3"
