@@ -1,89 +1,89 @@
 [[Xorg_libXScrnSaver]]
-arch = "aarch64"
-git-tree-sha1 = "5c260557eb0ec4e1b12b54891b6e0acc3fc5b2ce"
+arch = "armv7l"
+git-tree-sha1 = "65659e48da09b7d7f8473a3961ffca1bdaed8dee"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXScrnSaver.download]]
+    sha256 = "5b71d63baa1f7853625022fba4973cf2e5737fb1c23536b9099f79435ea407f0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libXScrnSaver]]
+arch = "i686"
+git-tree-sha1 = "92086dc201528eb69b2d4b774ec4f4c7928b05ed"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "4159b59d9d29df4a015c68f8bc5792619381095796164e2968ca06b0b9c99174"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.aarch64-linux-musl.tar.gz"
+    sha256 = "2416e8271e9315fd177e4074ccbb3d9dd2b02cacae11a890821278282ba3063c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.i686-linux-musl.tar.gz"
 [[Xorg_libXScrnSaver]]
 arch = "aarch64"
-git-tree-sha1 = "af3a723bd01af8858442280458c0e95bfa2cd572"
+git-tree-sha1 = "0c100772a1482dada1862945a99d23dc6a64badd"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "8541cb1d1cad53e47c93c5be4ec6ca8e75f018bbc35f03d26dbc1d203ab58ceb"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "5dfa9c4afe01e5ac2dabcf56f7b6f7cb447591eae7097476cfb2a7fb1406c645"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXScrnSaver]]
+arch = "armv7l"
+git-tree-sha1 = "7b6aaf02acd46e3d92fe7dcc26554bfa53db9c57"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXScrnSaver.download]]
+    sha256 = "2294b5a74307690931367b65abc0c0ffb158596e8649ad148dc4da305d577d7e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_libXScrnSaver]]
+arch = "aarch64"
+git-tree-sha1 = "f68cf09d8f3c27ae9710824fc024da518a1abd2e"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXScrnSaver.download]]
+    sha256 = "cf7a43933babb924dadebfda1f79750301dd51e36c867d97b72be437aa7e54eb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.aarch64-linux-musl.tar.gz"
 [[Xorg_libXScrnSaver]]
 arch = "x86_64"
-git-tree-sha1 = "8c8ecd2d7260de68bbb575d0a635bee711b68223"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXScrnSaver.download]]
-    sha256 = "72134ae8c87526038cdb53ad88f5f04280f6d1fb1e740fc4b088af35bb861a53"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.x86_64-linux-gnu.tar.gz"
-[[Xorg_libXScrnSaver]]
-arch = "powerpc64le"
-git-tree-sha1 = "d91754e776fd9058268706a1a6d792341ed59f68"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXScrnSaver.download]]
-    sha256 = "084fb0e73400b69130331e1991758d680284048e8868f335090a9938191c4d0a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.powerpc64le-linux-gnu.tar.gz"
-[[Xorg_libXScrnSaver]]
-arch = "x86_64"
-git-tree-sha1 = "a05080c261121e4322c1d993b07f5f3b253f7b13"
+git-tree-sha1 = "aca1905d1d169a24d58d16b209a3ee6d0ff9bb85"
 os = "freebsd"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "d2a1fec8775fb1373917fc2a9f2718af5da6e3e93c87e47e84ae238879f80db0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "8e85f3a3ef9fb410fa8d9e639b7bdde44d57e1777e33540762158cd823d5212e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.x86_64-unknown-freebsd11.1.tar.gz"
 [[Xorg_libXScrnSaver]]
 arch = "i686"
-git-tree-sha1 = "045914bd18e9ca90d3b4a73e3f60729d55a0603d"
+git-tree-sha1 = "888e2f54a1af2abe5c79b82baa7415f525145e90"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "41225c0b788bfc24c7bf7e4ac9fcd3c0cb7f4569b32bdbb8a9622f81082629c2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.i686-linux-gnu.tar.gz"
-[[Xorg_libXScrnSaver]]
-arch = "i686"
-git-tree-sha1 = "01e4269a03bf9177d64fd4ef4ae69ddcfafabfbf"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libXScrnSaver.download]]
-    sha256 = "47f7e77b53ee87f4a2cba00e8e42dab3bbd9e7dc5c91290411ef61d5f77adff3"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.i686-linux-musl.tar.gz"
-[[Xorg_libXScrnSaver]]
-arch = "armv7l"
-git-tree-sha1 = "15a9837c1d4ac2fef6a3447c12ec27b90a55ffa1"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXScrnSaver.download]]
-    sha256 = "2846e1914c5ef690b355d26f4047ae2542c430b245eeeaebf0b79f222045984d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "904f3ca38679f53f9c32b481c17b00eefa876d4154dd194b6246d644b14b11b1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.i686-linux-gnu.tar.gz"
 [[Xorg_libXScrnSaver]]
 arch = "x86_64"
-git-tree-sha1 = "ab818c57760d038ee8da30a11c6ffdbe139bf76d"
+git-tree-sha1 = "349c7f075a3b4205c3f156c81ad9816a92f4b389"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "31c74ab225bcced63b2efcb45254378376a1e2caf1caee25caa40151fc9788d0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.x86_64-linux-musl.tar.gz"
+    sha256 = "b944abf3b335a4bf7dd49764e08e06c42d2d5e2451c68d89b1e2a84b6a0ae8a7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.x86_64-linux-musl.tar.gz"
 [[Xorg_libXScrnSaver]]
-arch = "armv7l"
-git-tree-sha1 = "f1be92f813458c31e213c149d313e96c9c6d74e6"
-libc = "musl"
+arch = "x86_64"
+git-tree-sha1 = "a8ee05bdb561d19ced2ced81d85c7cc3224cbc3c"
+libc = "glibc"
 os = "linux"
 
     [[Xorg_libXScrnSaver.download]]
-    sha256 = "31a46c0b36d82ad3b26214dfb4aab1464a906cc892a8d41d362e9c1ecca9560b"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+1/Xorg_libXScrnSaver.v1.2.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1cad6a0b181bdf476a54055f0de7c41e54a357aa6c0fabbb3f1c77653fad1d00"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXScrnSaver]]
+arch = "powerpc64le"
+git-tree-sha1 = "78a0feaeb6c82bdbb498e8cee0716007533816bd"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXScrnSaver.download]]
+    sha256 = "e099d7036acb12897564f058b3286f028b22a11eaeaf38e5fe7982ea9f944616"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXScrnSaver_jll.jl/releases/download/Xorg_libXScrnSaver-v1.2.3+2/Xorg_libXScrnSaver.v1.2.3.powerpc64le-linux-gnu.tar.gz"

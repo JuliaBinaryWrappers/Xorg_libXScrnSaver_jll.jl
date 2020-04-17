@@ -1,6 +1,6 @@
 name = "Xorg_libXScrnSaver_jll"
 uuid = "41e2f9bb-6422-5ff7-a427-aa949331d861"
-version = "1.2.3+1"
+version = "1.2.3+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
